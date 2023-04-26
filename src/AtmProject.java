@@ -11,6 +11,8 @@ public class AtmProject {
 
         System.out.println("salih branchi kodlarını yazdı.");
         //version slh1
+        System.out.println("bazı kodlar yazdım");
+        //slh2
     }
 
 }
