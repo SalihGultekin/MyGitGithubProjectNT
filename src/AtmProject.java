@@ -13,6 +13,8 @@ public class AtmProject {
         //version slh1
         System.out.println("bazı kodlar yazdım");
         //slh2
+        System.out.println();
+        //slh3
     }
 
 }
